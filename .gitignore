@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!/*.py
+!.python-version
+!poetry.lock
+!pyproject.toml
