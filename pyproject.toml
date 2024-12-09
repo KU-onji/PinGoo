@@ -6,6 +6,7 @@ python = "^3.12"
 requests = "^2.32.3"
 slack-bolt = "^1.21.3"
 slack-sdk = "^3.33.5"
+selenium = "^4.27.1"
 
 
 [build-system]
